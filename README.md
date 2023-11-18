@@ -1,2 +1,2 @@
 # git-test
-Testing github repo
+Testing github repo for educational purposes.
